@@ -1,0 +1,3 @@
+class Employee{
+	Private state
+}
